@@ -1,13 +1,13 @@
 # Important information
 
 ## Install Nexus Repository Manager
-- https://github.com/inyeguh/Devops-CICD-project/blob/maven-nexus-sonarqube-jenkins-install/nexus-install.sh
+- https://github.com/inyeguh/devops-cicd-project/blob/maven-nexus-sonarqube-jenkins-install/nexus-install.sh
 
 ## Install Apache Maven
-- https://github.com/inyeguh/Devops-CICD-project/blob/maven-nexus-sonarqube-jenkins-install/maven-install.md
+- https://github.com/inyeguh/devops-cicd-project/blob/maven-nexus-sonarqube-jenkins-install/maven-install.md
 
 ## Install SonarQube
-- https://github.com/inyeguh/Devops-CICD-project/blob/maven-nexus-sonarqube-jenkins-install/sonarqube-install.sh
+- https://github.com/inyeguh/devops-cicd-project/blob/maven-nexus-sonarqube-jenkins-install/sonarqube-install.sh
 
 ## Configure Nexus Repository 
 
